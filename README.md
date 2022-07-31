@@ -1,0 +1,1 @@
+Projeto de uma página do Starbucks para estudo de HTML e CSS, utilizando tags semânticas, flexbox e Grid. 
